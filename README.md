@@ -34,7 +34,7 @@ task-manager-cli/
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/csodcaceres/task-manager-cli.git
 cd task-manager-cli
 ```
 
